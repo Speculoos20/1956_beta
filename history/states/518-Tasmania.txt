@@ -5,6 +5,10 @@ state={
 	
 	state_category = small_island
 
+	resources = {
+		steel = 4
+	}
+
 	history={
 		owner = AST
 		victory_points = {
